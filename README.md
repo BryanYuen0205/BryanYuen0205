@@ -35,7 +35,7 @@ Whether it's **automating cloud systems**, **training ML models**, or **crafting
 
 ## 🧰 Things I Code With
 
-<p align="centre">
+<p align="center">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
