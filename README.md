@@ -65,3 +65,5 @@ Whether it's **automating cloud systems**, **training ML models**, or **crafting
   <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
+
+[![Bryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanYuen0205)](https://github.com/anuraghazra/github-readme-stats)
