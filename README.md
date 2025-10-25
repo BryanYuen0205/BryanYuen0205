@@ -6,14 +6,7 @@
 {
   "name": "Bryan Yuen",
   "located_in": "Hong Kong",
-  "current_job": "Computer Science Student @ HKUST",
-  "education":
-    [
-      "Bachelor's in Computer Science and Minor in Business",
-      "Cambridge A-Levels (3A*s in Math, Chem, and Physics)",
-    ],
-  "company": "Cathay Pacific (DevOps Intern)",
-
+  "current_status": "Computer Science Student @ HKUST",
   "fields_of_interests":
     [
       "Web Development",
@@ -32,13 +25,7 @@
       "Oracle Analytics & Business Intelligence",
     ],
 
-  "currently_learning": ["Docker", "Kubernetes", "Advanced AWS Services"],
-  "2025_goals":
-    [
-      "Build 20+ Projects",
-      "Contribute to Open Source",
-      "Master Cloud Architecture",
-    ],
-  "hobbies": ["Coding", "Gaming", "Exploring Tech Trends", "Skateboarding"],
+  "currently_learning": ["Docker", "Java", "Derivative Securities"],
+  "hobbies": ["Coding", "Gaming", "Playing Guitar"],
 }
 ```
