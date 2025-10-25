@@ -68,4 +68,4 @@ Whether it's **automating cloud systems**, **training ML models**, or **crafting
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanYuen0205&layout=compact&card_width=600&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/BryanYuen0205/BryanYuen0205/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/BryanYuen0205/BryanYuen0205/output/github-contribution-grid-snake.svg)
