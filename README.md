@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there, I'm Bryan Yuen 👋
+
+🎓 **Computer Science Student** at [HKUST](https://www.hkust.edu.hk/)  
+💼 **Aspiring Software Engineer | AI & DevOps Enthusiast**  
+🌍 From Hong Kong | 🇲🇾 Malaysian Heritage  
+📧 bryanyuen05@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/bryanyuen0205) • [GitHub](https://github.com/BryanYuen0205)
 
 <!--
 **BryanYuen0205/BryanYuen0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
