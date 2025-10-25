@@ -1,20 +1,44 @@
 ## <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-## 🚀 About Me
+## 🚀 A Little Bit More About Me and My Interests
 
-I’m a final-year **Computer Science student at HKUST**, minoring in Business. I enjoy designing solutions that combine **machine learning**, **cloud infrastructure**, and **data visualization** to solve real-world problems.
+```yaml
+{
+  "name": "Bryan Yuen",
+  "located_in": "Hong Kong",
+  "current_job": "Computer Science Student @ HKUST",
+  "education":
+    [
+      "Bachelor's in Computer Science and Minor in Business",
+      "Cambridge A-Levels (3A*s in Math, Chem, and Physics)",
+    ],
+  "company": "Cathay Pacific (DevOps Intern)",
 
-<!--
-**BryanYuen0205/BryanYuen0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  "fields_of_interests":
+    [
+      "Web Development",
+      "Machine Learning",
+      "Cloud & DevOps",
+      "Data Science",
+      "UI/UX",
+      "IoT Systems",
+    ],
 
-Here are some ideas to get you started:
+  "technical_background":
+    [
+      "DevOps & Cloud Solutions (AWS, Streamlit, LangGraph)",
+      "Full Stack Development (React, Next.js, Node.js)",
+      "Machine Learning & NLP (TensorFlow, Scikit-Learn)",
+      "Oracle Analytics & Business Intelligence",
+    ],
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  "currently_learning": ["Docker", "Kubernetes", "Advanced AWS Services"],
+  "2025_goals":
+    [
+      "Build 20+ Projects",
+      "Contribute to Open Source",
+      "Master Cloud Architecture",
+    ],
+  "hobbies": ["Coding", "Gaming", "Exploring Tech Trends", "Skateboarding"],
+}
+```
