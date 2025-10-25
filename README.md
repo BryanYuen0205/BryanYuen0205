@@ -1,4 +1,7 @@
-# <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# <h1><img src="https://slackmojis.com/emojis/8559-this_is_fine/download" width="30"/> Hey! I'm Bryan</h1>
+
+I’m a Computer Science student at HKUST who loves building smart, scalable, and eye-catching solutions.  
+Whether it's **automating cloud systems**, **training ML models**, or **crafting sleek web apps**, I’m all about creating things that make tech feel effortless.
 
 ## 🚀 A Little Bit More About Me and My Interests
 
