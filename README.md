@@ -1,10 +1,8 @@
-# Hi there, I'm Bryan Yuen 👋
+## <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-🎓 **Computer Science Student** at [HKUST](https://www.hkust.edu.hk/)  
-💼 **Aspiring Software Engineer | AI & DevOps Enthusiast**  
-🌍 From Hong Kong | 🇲🇾 Malaysian Heritage  
-📧 bryanyuen05@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/bryanyuen0205) • [GitHub](https://github.com/BryanYuen0205)
+## 🚀 About Me
+
+I’m a final-year **Computer Science student at HKUST**, minoring in Business. I enjoy designing solutions that combine **machine learning**, **cloud infrastructure**, and **data visualization** to solve real-world problems.
 
 <!--
 **BryanYuen0205/BryanYuen0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
