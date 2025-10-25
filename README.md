@@ -66,4 +66,4 @@ Whether it's **automating cloud systems**, **training ML models**, or **crafting
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-[![Bryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanYuen0205)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanYuen0205)](https://github.com/anuraghazra/github-readme-stats)
