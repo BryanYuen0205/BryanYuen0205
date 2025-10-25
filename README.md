@@ -66,4 +66,6 @@ Whether it's **automating cloud systems**, **training ML models**, or **crafting
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanYuen0205&layout=compact&card_width=600&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanYuen0205&layout=compact&card_width=600&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/BryanYuen0205/BryanYuen0205/blob/output/github-contribution-grid-snake.svg)
