@@ -3,7 +3,7 @@
 I’m a Computer Science student at HKUST who loves building smart, scalable, and eye-catching solutions.  
 Whether it's **automating cloud systems**, **training ML models**, or **crafting sleek web apps**, I’m all about creating things that make tech feel effortless.
 
-## 🚀 A Little Bit More About Me and My Interests
+### 🚀 A Little Bit More About Me and My Interests
 
 ```yaml
 {
@@ -67,7 +67,4 @@ Whether it's **automating cloud systems**, **training ML models**, or **crafting
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanYuen0205&layout=compact&card_width=600&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🐍 Contribution Snake
-
 ![Snake animation](https://raw.githubusercontent.com/BryanYuen0205/BryanYuen0205/output/github-snake-custom.svg)
