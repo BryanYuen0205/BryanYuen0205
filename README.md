@@ -3,7 +3,7 @@
 I’m a Computer Science student at HKUST who loves building smart, scalable, and eye-catching solutions.  
 Whether it's **automating cloud systems**, **training ML models**, or **crafting sleek web apps**, I’m all about creating things that make tech feel effortless.
 
-### 🚀 A Little Bit More About Me and My Interests
+## 🚀 A Little Bit More About Me and My Interests
 
 ```yaml
 {
@@ -33,7 +33,7 @@ Whether it's **automating cloud systems**, **training ML models**, or **crafting
 }
 ```
 
-### 🧰 Things I Code With
+## 🧰 Things I Code With
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
