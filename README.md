@@ -70,4 +70,4 @@ Whether it's **automating cloud systems**, **training ML models**, or **crafting
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/BryanYuen0205/BryanYuen0205/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/BryanYuen0205/BryanYuen0205/output/github-snake-custom.svg)
