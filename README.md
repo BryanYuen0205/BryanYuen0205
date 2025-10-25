@@ -1,7 +1,12 @@
 # <h1><img src="https://slackmojis.com/emojis/8559-this_is_fine/download" width="30"/> Hey! I'm Bryan</h1>
 
-I’m a Computer Science student at HKUST who loves building smart, scalable, and eye-catching solutions.  
-Whether it's **automating cloud systems**, **training ML models**, or **crafting sleek web apps**, I’m all about creating things that make tech feel effortless.
+🎓 _Computer Science student at HKUST_ passionate about building **smart**, **scalable**, and **eye-catching** solutions that make tech feel effortless.
+
+💡 Whether it’s **automating cloud systems**, **training ML models**, or **crafting sleek web apps**, I love turning complex challenges into elegant digital experiences.
+
+👥 I currently **lead a small team of web developers** at **HKMSA**, where we design, maintain, and continuously improve the official university website to enhance accessibility and performance.
+
+🌐 Always exploring new ways to blend code, design, and creativity—and bring ideas to life on the web.
 
 ## 🚀 A Little Bit More About Me and My Interests
 
